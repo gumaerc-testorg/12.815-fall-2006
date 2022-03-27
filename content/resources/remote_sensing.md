@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12600d0e-8de9-105b-6c5e-154517a183cf
 resourcetype: Document
 title: remote_sensing.pdf
 uid: 7b9b6c5e-92a3-45aa-5cb3-c1291db442b2

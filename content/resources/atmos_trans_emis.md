@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12600d0e-8de9-105b-6c5e-154517a183cf
 resourcetype: Document
 title: atmos_trans_emis.pdf
 uid: 40b1a10d-8bc3-860b-c7f9-8c732addbb27

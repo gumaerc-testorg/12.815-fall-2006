@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12600d0e-8de9-105b-6c5e-154517a183cf
 resourcetype: Document
 title: absorption.pdf
 uid: b550c0e6-c50a-59bb-aee3-9b3a5b9e9a06

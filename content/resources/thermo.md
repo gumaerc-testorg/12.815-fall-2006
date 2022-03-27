@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12600d0e-8de9-105b-6c5e-154517a183cf
 resourcetype: Document
 title: thermo.pdf
 uid: a4ea2da5-2e05-800b-5782-a91b96f54322

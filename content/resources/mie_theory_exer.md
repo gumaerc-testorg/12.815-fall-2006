@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: mie_theory_exer.pdf
 uid: 889caef2-dccb-ebf3-9c37-c3e0c15dfcc1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: multiple_scat_ex.pdf
 uid: ee49eb53-98d4-2754-2746-0ba56e583585

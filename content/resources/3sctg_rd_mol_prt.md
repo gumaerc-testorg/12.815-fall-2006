@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 12600d0e-8de9-105b-6c5e-154517a183cf
 resourcetype: Document
 title: 3sctg_rd_mol_prt.pdf
 uid: 2230742a-bc3a-9337-5045-ad5b6ecf5705

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: remote_sens_exer.pdf
 uid: d3635e3b-226a-de35-6f9b-2d800a01616f

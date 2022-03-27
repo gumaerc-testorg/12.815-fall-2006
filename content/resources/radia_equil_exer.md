@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: radia_equil_exer.pdf
 uid: ea342725-00ed-6488-bbc4-1bf241a317be

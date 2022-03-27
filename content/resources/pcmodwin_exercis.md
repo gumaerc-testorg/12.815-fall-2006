@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0fdbba55-195c-6ded-a0ee-12fec4af7a78
 resourcetype: Document
 title: pcmodwin_exercis.pdf
 uid: c3de7cdd-1118-ae0e-3ee3-4493356ae0ca
