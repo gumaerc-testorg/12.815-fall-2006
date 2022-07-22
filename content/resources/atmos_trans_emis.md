@@ -6,6 +6,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2006/40b1a10d8bc3860bc7f98c732a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: atmos_trans_emis.pdf
 uid: 40b1a10d-8bc3-860b-c7f9-8c732addbb27
 ---
 Lecture notes covering the following topics: high resolution atmospheric transmission and atmospheric radiation.
-

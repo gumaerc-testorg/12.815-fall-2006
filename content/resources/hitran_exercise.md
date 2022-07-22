@@ -6,6 +6,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2006/3278fefb18bb9b47a78db64304
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hitran_exercise.pdf
 uid: 3278fefb-18bb-9b47-a78d-b64304af6143
 ---
 Homework assignment covering the following topics: Elsasser's band model, JHAWKS and FASCODE.
-

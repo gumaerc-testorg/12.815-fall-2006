@@ -6,6 +6,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2006/a4ea2da52e05800b5782a91b96
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: thermo.pdf
 uid: a4ea2da5-2e05-800b-5782-a91b96f54322
 ---
 Lecture notes covering the following topics: black-body radiation, Stefan's Law, Kirchoff's Law, energy levels in molecules and Boltzmann distribution.
-

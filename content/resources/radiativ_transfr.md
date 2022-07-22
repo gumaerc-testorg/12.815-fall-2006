@@ -6,6 +6,7 @@ file: /courses/12-815-atmospheric-radiation-fall-2006/095971725284763efce8d30013
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: radiativ_transfr.pdf
 uid: 09597172-5284-763e-fce8-d3001357fdb4
 ---
 This resource contains the key concepts, and exercise based on planetary radiation, and radiative equilibrium.
-
