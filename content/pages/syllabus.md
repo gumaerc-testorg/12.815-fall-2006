@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains information about the prerequisites, and
+  grading for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 89884548-edb3-ded4-4c2a-7b78efe39e94
 ---
