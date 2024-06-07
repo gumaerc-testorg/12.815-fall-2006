@@ -4,6 +4,7 @@ description: This resource contains problems on radiative flux, Eddington's equa
   grey approximation to absorption coefficient, radiative equilibrium and discontinuity
   in surface boundary condition.
 file: /courses/12-815-atmospheric-radiation-fall-2006/ea34272500ed6488bbc41bf241a317be_radia_equil_exer.pdf
+file_size: 12808
 file_type: application/pdf
 learning_resource_types:
 - Assignments
