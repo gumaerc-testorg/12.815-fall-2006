@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on cirrus cloud, weighting function and
   tropical atmosphere in radiance mode.
 file: /courses/12-815-atmospheric-radiation-fall-2006/d3635e3b226ade356f9b2d800a01616f_remote_sens_exer.pdf
+file_size: 31953
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes covering the following topics: high resolution atmospheric
   transmission and atmospheric radiation.'
 file: /courses/12-815-atmospheric-radiation-fall-2006/40b1a10d8bc3860bc7f98c732addbb27_atmos_trans_emis.pdf
+file_size: 254288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resourse contains notes on equation of radiative transfer alon
   with 3 cases, radiation intensity and radiation flux, and approximate solution for
   planetary radiation.
 file: /courses/12-815-atmospheric-radiation-fall-2006/79d280745388d512bda626adcb8da238_1_eq_radiative_transfer.pdf
+file_size: 378195
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
