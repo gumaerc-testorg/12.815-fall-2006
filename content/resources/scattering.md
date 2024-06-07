@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture notes covering the following topics: multiple scattering, radiative
   transfer in a scattering atmosphere and advantages of discrete ordinate method.'
 file: /courses/12-815-atmospheric-radiation-fall-2006/88b86c33a9b743d32e4bdc4b7b2a9248_scattering.pdf
+file_size: 322690
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
