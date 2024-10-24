@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and talks about discrete ordinates
   along with the exercise.
-file: /courses/12-815-atmospheric-radiation-fall-2006/88c659e3b9c49b9da9c9fd583c989e8c_multi_scattering.pdf
+file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/88c659e3b9c49b9da9c9fd583c989e8c_multi_scattering.pdf
 file_size: 55441
 file_type: application/pdf
 learning_resource_types:

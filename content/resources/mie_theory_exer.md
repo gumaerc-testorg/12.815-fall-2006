@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Homework assignment covering the following topics: Mie scattering program,
   exercise on attenuation of a ray and problems on van der Hulst theory.'
-file: /courses/12-815-atmospheric-radiation-fall-2006/889caef2dccbebf39c37c3e0c15dfcc1_mie_theory_exer.pdf
+file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/889caef2dccbebf39c37c3e0c15dfcc1_mie_theory_exer.pdf
 file_size: 37159
 file_type: application/pdf
 learning_resource_types:
