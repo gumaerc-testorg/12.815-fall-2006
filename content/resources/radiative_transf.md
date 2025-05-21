@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes covering the following topics: intensity of radiation
   transfer, emission and scattering, Lambert''s Law, single scattering albedo and
   planetary radiation.'
-file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/e10d65ac65c27fed8d6ede9e1a4ce666_radiative_transf.pdf
+file: /courses/12-815-atmospheric-radiation-fall-2006/e10d65ac65c27fed8d6ede9e1a4ce666_radiative_transf.pdf
 file_size: 258941
 file_type: application/pdf
 learning_resource_types:
