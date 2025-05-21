@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/3bd6a8d2b92c22eb41db413a80c4b0ad_thermodynamic_concepts_of_radiation.pdf
+file: /courses/12-815-atmospheric-radiation-fall-2006/3bd6a8d2b92c22eb41db413a80c4b0ad_thermodynamic_concepts_of_radiation.pdf
 file_size: 253547
 file_type: application/pdf
 learning_resource_types:

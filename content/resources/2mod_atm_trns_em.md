@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on HITRAN, band models, and MODTRAN and
   its benefits.
-file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/cbe4e58bb5702092df86970840b5b444_2mod_atm_trns_em.pdf
+file: /courses/12-815-atmospheric-radiation-fall-2006/cbe4e58bb5702092df86970840b5b444_2mod_atm_trns_em.pdf
 file_size: 633564
 file_type: application/pdf
 learning_resource_types:
