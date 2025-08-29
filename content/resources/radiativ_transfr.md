@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the key concepts, and exercise based on planetary
   radiation, and radiative equilibrium.
-file: /courses/12-815-atmospheric-radiation-fall-2006/095971725284763efce8d3001357fdb4_radiativ_transfr.pdf
+file: /ol-ocw-studio-app/courses/12-815-atmospheric-radiation-fall-2006/095971725284763efce8d3001357fdb4_radiativ_transfr.pdf
 file_size: 57968
 file_type: application/pdf
 learning_resource_types:
